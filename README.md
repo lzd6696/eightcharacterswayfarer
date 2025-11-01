@@ -1,0 +1,2 @@
+# eightcharacterswayfarer
+八字行者app 官方開發與App相關問題支援處理
