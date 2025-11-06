@@ -8,5 +8,5 @@
 
 <br>
 <br>
-[![Get it from Microsoft Store](https://developer.microsoft.com/store/badges/images/zh-tw/get-it-from-MS.png)](https://www.microsoft.com/store/apps/9pm6hq85j8hw)
+
 
