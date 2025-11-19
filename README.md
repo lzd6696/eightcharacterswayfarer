@@ -14,8 +14,6 @@
 
 <br>
 <br>
-[<a href="[https://apps.microsoft.com/detail/9pm6hq85j8hw?referrer=appbadge&mode=direct](https://play.google.com/store/apps/details?id=com.wayloft.eightcharacterswayfarer&pcampaignid=web_share)">
-	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>](https://play.google.com/store/apps/details?id=com.wayloft.eightcharacterswayfarer&pcampaignid=web_share)
-</a>
+<a href="https://play.google.com/store/apps/details?id=com.wayloft.eightcharacterswayfarer&pcampaignid=web_share">
 <br>
 <br>
