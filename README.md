@@ -14,6 +14,12 @@
 
 <br>
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.wayloft.eightcharacterswayfarer&pcampaignid=web_share">
+<a href="https://play.google.com/store/apps/details?id=com.wayloft.eightcharacterswayfarer&pcampaignid=web_share"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="Get the Eight Characters Wayfarer app on Google Play">
+  <img alt="Get it on Google Play"
+       src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       style="height:60px; width:auto; display:block;">
+</a>
 <br>
 <br>
